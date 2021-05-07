@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b/PVom8k+soPZp/JqeQwPC1g7rWQ6FKPOkq/LfkJqr4he+QGQAQHb9QXf5yr6vRd8pmX9WYTfSgI4UGbwP6T3Q==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\Exercício de fixação Enum + Compisição\\Course\\Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
