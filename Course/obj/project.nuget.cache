@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b/PVom8k+soPZp/JqeQwPC1g7rWQ6FKPOkq/LfkJqr4he+QGQAQHb9QXf5yr6vRd8pmX9WYTfSgI4UGbwP6T3Q==",
+  "dgSpecHash": "Idf2kqEwSwK019vJLfXl6RrEZHTv+opLg2SzGpMgSHdjeKwgaP3K8PhnnASKqS5ZJbN40V5OQE3msgiHxRUV4A==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\Exercício de fixação Enum + Compisição\\Course\\Course.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "F:\\Projetos de estudo VS-2019\\Grimm-A7X\\Course\\Course.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

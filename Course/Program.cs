@@ -14,6 +14,9 @@ namespace Course
             string email = Console.ReadLine();
             Console.Write("Birth date (DD/MM/YYYY): ");
             DateTime birthDate = DateTime.Parse(Console.ReadLine());
+            Console.WriteLine("Enter order data:");
+            Console.Write("Status: ");
+            OrderSatus order = Enum.Parse<OrderSatus>(Console.ReadLine());
 
             
 
