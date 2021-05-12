@@ -8,15 +8,18 @@ namespace Course.Entities
     {
         public int Quantity { get; set; }
         public double Price { get; set; }
+        public Product Product { get; }
+        public Product product { get; set; }
 
         public OrderItem()
         {
         }
 
-        public OrderItem(int quantity, double price)
+        public OrderItem(int quantity, double price, Product product)
         {
             Quantity = quantity;
             Price = price;
+            Product = product;
         }
 
         public double SubTotal()

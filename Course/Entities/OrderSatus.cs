@@ -1,6 +1,6 @@
 ﻿namespace Course.Entities
 {
-    enum OrderSatus : int
+    enum OrderStatus : int
     {
         Pending_Payment = 0,
         Processing = 1,

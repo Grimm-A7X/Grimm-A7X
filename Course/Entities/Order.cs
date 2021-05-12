@@ -1,12 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
+
 
 namespace Course.Entities
 {
     class Order
     {
         public DateTime Moment { get; set; }
-        public OrderSatus Status { get; set; }
+        public OrderStatus Status { get; set; }
         public Client Client { get; set; }
         public List<OrderItem> Items { get; set; } = new List<OrderItem>();
 
@@ -14,7 +16,7 @@ namespace Course.Entities
         {
         }
 
-        public Order(DateTime moment, OrderSatus status, Client client)
+        public Order(DateTime moment, OrderStatus status, Client client)
         {
             Moment = moment;
             Status = status;
@@ -40,5 +42,11 @@ namespace Course.Entities
             }
             return sum;
         }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+        }
+
     }
 }
