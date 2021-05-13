@@ -46,6 +46,15 @@ namespace Course.Entities
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine("Order Status: " + Status);
+            sb.AppendLine("Client: " + Client);
+            sb.AppendLine("Order Items:");
+            foreach (OrderItem Item in Items)
+            {
+                sb.AppendLine(Item.ToString());
+            }
+            return sb.ToString();
         }
 
     }
