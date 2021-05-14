@@ -11,3 +11,16 @@ F:\Projetos de estudo VS-2019\Grimm-A7X\Course\obj\Debug\netcoreapp3.1\Course.cs
 F:\Projetos de estudo VS-2019\Grimm-A7X\Course\obj\Debug\netcoreapp3.1\Course.dll
 F:\Projetos de estudo VS-2019\Grimm-A7X\Course\obj\Debug\netcoreapp3.1\Course.pdb
 F:\Projetos de estudo VS-2019\Grimm-A7X\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\obj\Debug\netcoreapp3.1\Course.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\Users\Administrador\Desktop\Grimm-A7X\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache

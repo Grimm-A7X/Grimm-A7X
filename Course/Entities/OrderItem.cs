@@ -5,9 +5,8 @@ namespace Course.Entities
     class OrderItem
     {
         public int Quantity { get; set; }
-        public double Price { get; set; }
-        public Product Product { get; }
-        public Product product { get; set; }
+        public double Price { get; set; }        
+        public Product Product { get; set; }
 
         public OrderItem()
         {
