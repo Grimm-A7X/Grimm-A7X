@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 
 namespace Course.Entities
@@ -54,6 +55,7 @@ namespace Course.Entities
             {
                 sb.AppendLine(Item.ToString());
             }
+            sb.AppendLine("Total price: $" + Total().ToString("F2", CultureInfo.InvariantCulture));
             return sb.ToString();
         }
 
